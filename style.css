@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Army';
-    src: url('modern-warfare-font/Army Buster.otf');
+    src: url('modern-warfare-font/Army Buster.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'OPS';
-    src: url('modern-warfare-font/black-ops-one.regular.ttf');
+    src: url('modern-warfare-font/black-ops-one.regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'USSR';
-    src: url('modern-warfare-font/USSR Army.ttf');
+    src: url('modern-warfare-font/USSR Army.ttf') format('truetype');
 }
 
 * {
