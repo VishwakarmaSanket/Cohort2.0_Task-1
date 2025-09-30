@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Army';
-    src: url(/modern-warfare-font/Army\ Buster.otf);
+    src: url('modern-warfare-font/Army Buster.otf');
 }
 
 @font-face {
     font-family: 'OPS';
-    src: url(/modern-warfare-font/black-ops-one.regular.ttf);
+    src: url('modern-warfare-font/black-ops-one.regular.ttf');
 }
 
 @font-face {
     font-family: 'USSR';
-    src: url(/modern-warfare-font/USSR\ Army.ttf);
+    src: url('modern-warfare-font/USSR Army.ttf');
 }
 
 * {
@@ -28,7 +28,7 @@ body {
 div {
     height: 100vh;
     width: 100vw;
-    background: url(/images/ghost-modern-2880x1800-10953.jpg);
+    background: url('images/ghost-modern-2880x1800-10953.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -38,6 +38,7 @@ div {
     justify-content: center;
     gap: 2vh;
 }
+
 
 @keyframes pulse {
     from {
